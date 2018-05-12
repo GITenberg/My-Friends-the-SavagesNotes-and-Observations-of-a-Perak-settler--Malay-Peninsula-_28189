@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33191'
     url: http://www.gutenberg.org/2009/agents/33191
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28189#My-Friends-the-SavagesNotes-and-Observations-of-a-Perak-settler--Malay-Peninsula-
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
 identifiers:
