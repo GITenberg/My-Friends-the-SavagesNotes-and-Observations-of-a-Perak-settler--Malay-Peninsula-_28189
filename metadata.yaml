@@ -1,0 +1,35 @@
+_repo: My-Friends-the-SavagesNotes-and-Observations-of-a-Perak-settler--Malay-Peninsula-_28189
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sanpietro, I. Stone
+    gutenberg_agent_id: '33192'
+    url: http://www.gutenberg.org/2009/agents/33192
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cerruti, Giovanni Battista
+    alias: Cerruti, G. B. (Giovanni Battista)
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '33191'
+    url: http://www.gutenberg.org/2009/agents/33191
+description: ''
+gutenberg_issued: '2009-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Senoi (Southeast Asian people)'
+- !lcsh 'Malay Peninsula -- Description and travel'
+title: 'My Friends the Savages
+
+  Notes and Observations of a Perak settler (Malay Peninsula)'
+url: http://www.gutenberg.org/ebooks/28189
